@@ -7,7 +7,7 @@
 Tenho focado meus estudos em tecnologias como Java, Spring Boot, Angular e SQL, com ênfase em desenvolvimento web e boas práticas de programação. Gosto de criar interfaces interativas e funcionais, e estou sempre buscando evoluir minha lógica de programação e meus conhecimentos em arquitetura de software.
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudiasdiasc/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-dias-170924216/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillo_diastrabalho@outlook.com)
 ---
 
