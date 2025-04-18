@@ -34,10 +34,10 @@ Tenho focado meus estudos em tecnologias como Java, Spring Boot, Angular e SQL, 
 <br><br>
 
 ### 📋 Metodologias
-<img align="left" alt="Scrum" title="Scrum" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scrum/scrum-original.svg" />
-<!-- Scrum não tem ícone oficial, mas a gente pode usar esse se quiser ou deixar só como texto -->
+🌀 Scrum  
+📌 Kanban  
+✅ Metodologias Ágeis
 <br><br>
-
 ---
 
 | --- | --- |
