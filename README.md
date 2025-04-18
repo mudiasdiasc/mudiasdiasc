@@ -1,6 +1,5 @@
 # 👽 Murillo Dias
 **Seja bem-vindo ao meu perfil!**
-> "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 
  > Olá! Eu sou o Murillo Dias, estudante de Bacharelado em Sistemas de Informação.
 
